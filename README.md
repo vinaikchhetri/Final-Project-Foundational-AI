@@ -25,4 +25,7 @@ Mistral-7B-Instruct-v0.1.csv <br />
 Mixtral-8x22B-Instruct-v0.1.csv <br />
 Mixtral-8x7B-Instruct-v0.1.csv
 
+message_sampling.py <br />
+samples messages from a Telegram database (MongoDB) for annotation
+
 
